@@ -1,0 +1,111 @@
+
+
+/*home */
+
+.home{
+
+    background-image: url("../image/drew-coffman-1872\ \(1\).jpg");
+    height: 100vh;
+    background-size: 100% 100%;
+}
+.home-cap{
+    
+text-align: center;
+margin-top: 50px;
+color: white;
+}
+
+.clear{
+    clear: both;
+}
+.container{
+    width: 90%;
+    margin: auto;
+}
+.home-cap{
+    margin-top: 140px;
+}
+
+
+.home-cap p{
+    font-size: 23px;
+}
+.home-cap h1{
+    font-family: "Alegreya";
+    font-size: 55px;
+    font-weight: bold;
+    margin: 20px 0;
+}
+
+.home-cap .btn{
+    padding: 17px;
+    color: white;
+    border-radius: 5px;
+    font-size: 17px;
+    margin: 20px 5px;
+}
+.home-cap .btn1{
+    background-color: #8e7754;
+    border-width: 0;
+}
+.home-cap .btn2{
+    background-color:transparent;
+    border: 2px solid white;
+}
+
+.scrol{
+    width: 32px;
+    height: 48px;
+    margin: auto;
+    margin-top: 40px;
+    border-radius: 40%;
+    border: 2px solid white;
+}
+
+
+/*baking */
+.baking{
+    margin: auto;
+    margin-top: 140px;
+    width: 100%;
+}
+.baking-cap h2{
+    font-family: "Alegreya"; 
+}
+.baking-cap{
+    text-align: center;
+}
+.baking-img {
+    float: left;
+}
+.baking-img h4{
+    font-family: "Alegreya";
+    padding: 10px 0; 
+    text-align: center;
+}
+.baking-img p{
+    text-align: center;
+}
+.bak-img{
+    width: 33%;
+    text-align: center;
+    float: left;
+}
+.bak-img img{
+    width: 100%;
+}
+.ineer{
+    padding: 30px;
+}
+
+.info{
+    background-color: #353330;
+    ;
+}
+.info-c{
+    
+    margin: auto;
+    width: 40%;
+    text-align: center;
+padding: 20px 0;
+}
